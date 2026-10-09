@@ -1,0 +1,12 @@
+{
+  "name": "mini-ecommerce-storefront",
+  "version": "1.0.0",
+  "description": "Mini storefront de e-commerce para prueba tecnica de IA Agentica",
+  "main": "src/controllers/cartController.js",
+  "scripts": {
+    "start": "node src/controllers/cartController.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
